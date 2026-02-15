@@ -52,7 +52,7 @@ export function HomePage({ setCurrentPage }: HomePageProps) {
               </p>
               <div className="flex flex-wrap gap-4">
                 <a
-                  href="tel:9029994768"
+                  href="tel:+91 9029994768"
                   className="inline-flex items-center gap-2 bg-accent-600 hover:bg-accent-700 text-white px-8 py-4 rounded-lg font-semibold transition-all shadow-lg hover:shadow-xl"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
